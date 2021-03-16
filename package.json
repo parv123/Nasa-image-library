@@ -1,0 +1,27 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "y",
+  "main": "index.js",
+  "scripts": {
+    "test": "y"
+  },
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "keywords": [
+    "y"
+  ],
+  "author": "y",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "react": "0.0.0-4c019585e",
+    "react-dom": "0.0.0-4c019585e",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {}
+}
