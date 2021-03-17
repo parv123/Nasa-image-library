@@ -5,7 +5,7 @@ A web page which accepts query as input and accesses the NASA Image and Video Li
 React.js , Node.js , APIs, HTML, CSS, Javascript
 
 ## Demo URL
-https://parv-findjob-project.herokuapp.com
+https://parv-nasa-project.herokuapp.com
 ## How to run: 
 * Make sure npm and NodeJs are installed in your system and no other services running on port 3000
 * `node index.js` -- to start the node server.
